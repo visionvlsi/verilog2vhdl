@@ -10,6 +10,11 @@ iverilog -t vhdl -o my_design.vhd my_design.v<br/>
 
 
 
+https://github.com/steveicarus/iverilog
+
+clone from the above link<br/>
+
+
 sudo apt-get install -y gperf<br/>
 autoconf configure.ac<br/>
 ./configure<br/>
